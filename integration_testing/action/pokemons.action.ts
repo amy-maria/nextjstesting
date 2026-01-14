@@ -7,7 +7,7 @@ import type {
   TypeDetailResponse,
   TypePokemonEntry,
   PokemonTypeResponse,
-} from "@/types/pokemon";
+} from "../types/pokemon";
 
 const POKEMON_LIMIT = 20;
 
